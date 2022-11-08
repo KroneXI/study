@@ -1,0 +1,19 @@
+html, body {
+    height: 99%;
+}
+body {
+    background: rgb(27, 38, 49);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text_box {
+    background: rgb(254, 249, 231);
+    border: 3px solid #73AD21;
+    border-radius: 18px;
+    padding: 5px 15px 5px 15px;
+    margin: 10px;
+    width: max-content;
+    height: max-content;
+    color: rgb(27, 38, 49);
+}
